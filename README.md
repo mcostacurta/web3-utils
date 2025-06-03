@@ -1,4 +1,4 @@
-# web3-utils - Ethereum Development Environment Manager 🚀
+# Ethereum Development Environment Manager 🚀
 
 This bash script helps manage essential processes for Ethereum smart contract development using Remix IDE and Hardhat. It allows you to easily start and stop `remixd`, a local Hardhat node, and automatically open Remix IDE in Firefox.
 
